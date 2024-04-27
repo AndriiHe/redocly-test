@@ -23,7 +23,7 @@ portal including adding the following:
 <!-- If you are a TypeScript developer or React component creator, check out
 the [Custom Theme](https://newportal-docs.redoc.dev/build-themes/build-custom-theme/) documentation. -->
 
-## Add Markdown documents
+### Add Markdown documents
 
 Adding Markdown documents means you can write use cases, step-by-step tutorials,
 or conceptual content that you can then include with your API reference pages.
